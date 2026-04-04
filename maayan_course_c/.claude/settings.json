@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd.exe /c \"where uv 2>nul && where uvx 2>nul\")",
+      "Bash(cmd.exe /c where uv)",
+      "Bash(cmd.exe /c where uvx)",
+      "Bash(printenv PATH)",
+      "Bash(export PATH=\"/c/Users/ofirp/AppData/Local/Programs/Python/Python312/Scripts:$PATH\")",
+      "Bash(unset VIRTUAL_ENV)",
+      "Bash(ffmpeg -version)",
+      "Bash(python -c \":*)",
+      "Bash(winget install:*)",
+      "Bash(\"/c/Program Files/7-Zip/7z.exe\" --help)",
+      "Bash(find /e/git/mpm-module -type f \\\\\\(-name Makefile -o -name *.sh -o -name *.bash -o -name run* \\\\\\))",
+      "Read(//c/Users/ofirp/AppData/Roaming/Code/User/**)",
+      "Bash(make --version)",
+      "Bash(choco --version)",
+      "Bash(winget --version)",
+      "Read(//c/Program Files \\(x86\\)/GnuWin32/bin/**)",
+      "Read(//c/Program Files/GnuWin32/bin/**)",
+      "Bash(make)",
+      "Bash(export PATH=\"/c/Program Files \\(x86\\)/GnuWin32/bin:$PATH\")",
+      "Read(//c/Program Files/LLVM/bin/**)",
+      "Read(//c/Program Files \\(x86\\)/LLVM/bin/**)",
+      "Bash(export PATH=\"/c/Program Files/LLVM/bin:/c/Program Files \\(x86\\)/GnuWin32/bin:$PATH\")",
+      "Bash(/c/msys64/usr/bin/pacman.exe -S --noconfirm mingw-w64-x86_64-gcc mingw-w64-x86_64-headers-git)",
+      "Bash(export PATH=\"/c/Program Files/LLVM/bin:/c/msys64/mingw64/bin:/c/Program Files \\(x86\\)/GnuWin32/bin:$PATH\")",
+      "Bash(./hello.exe)",
+      "Read(//c/Users/ofirp/**)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\ofirp\\AppData\\Roaming\\Code\\User",
+      "C:\\Users\\ofirp"
+    ]
+  }
+}

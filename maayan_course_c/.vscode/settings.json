@@ -1,0 +1,51 @@
+// Workspace settings
+{
+
+    "workbench.editor.showTabs": "multiple",
+    "workbench.editor.enablePreview":false,
+    "explorer.excludeGitIgnore" : true,
+    "files.autoSave": "onFocusChange",
+    "[python]": {
+        "editor.codeActionsOnSave": {
+                "source.organizeImports.ruff": "explicit"
+        },
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "charliermarsh.ruff",
+
+    },
+    "python.terminal.activateEnvironment": false,
+    "explorer.fileNesting.enabled": true,
+    "explorer.fileNesting.expand": false,
+    "explorer.fileNesting.patterns": {
+        "*.py": "_test__${capture}.py"
+    },
+    "cSpell.words": [
+        "arctan",
+        "conftest",
+        "conlist",
+        "intervaltree",
+        "linalg",
+        "mpimg",
+        "newaxis",
+        "pydantic",
+        "rtol",
+        "xlims",
+        "ylims"
+    ],
+    "markdown.marp.html": "all",
+    "terminal.integrated.fontFamily": "DejaVu Sans Mono",
+    "terminal.integrated.automationProfile.linux": {
+        "path": "/bin/tcsh",
+        "args": ["-c", "source aliases.sh && exec tcsh"]
+    },
+    "python.analysis.typeCheckingMode": "off",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportGeneralTypeIssues": "none",
+        "reportArgumentType": "none",
+        "reportCallIssue": "none",
+        "reportInvalidTypeForm": "none"
+    },
+    "ruff.enable": true,
+    "semanticdiff.defaultDiffViewer": true,
+
+}
