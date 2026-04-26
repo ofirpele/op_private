@@ -1,25 +1,52 @@
 #include <stdio.h>
+#include <ctype.h>
+#define MAX_STR_LENGTH 4
 
-int main(void)
+void read_line(char s[])
 {
-    
-    float fahr, celsius;
-    int lower, upper, step;
-    lower = 0;
-    upper = 300;
-    step = 20;
-
-    fahr = upper;
-    while (fahr >= lower)
+    int c,i;
+    for(i=0; i<MAX_STR_LENGTH; i++)
     {
-        celsius  = (0.5/0.9) * (fahr - 32.0);
-        printf("%3.0f %6.1f\n" , fahr, celsius);
-        fahr = fahr - step;
+        c = getchar();
+        if (c == '\n')
+        {
+            break;
+        }
+        s[i] = c;
     }
-
-    
-    return 0;
+    s[i] = '\0';
 }
-    
 
-    
+void remove_space(char str[])
+{
+    int read_i = 0;
+    int write_i = 0; 
+    for(; str[read_i] != '\0' && read_i<MAX_STR_LENGTH; read_i++)
+    {
+        if(!isspace(str[read_i]))
+        {
+            str[write_i] = str[read_i];
+            write_i++;
+        }
+    }
+    str[write_i] = '\0';
+}
+
+
+
+int main(void) 
+{
+    char str[MAX_STR_LENGTH+1];
+    printf("Please enter string. The string length can't be more than %d\n", MAX_STR_LENGTH);
+    read_line(str);
+    printf("The Input string:\n %s\n", str);
+
+    printf("The string as recived by the function:\n %s\n", str);
+
+    remove_space(str);
+
+    printf("The string at the end of the function:\n %s\n", str);
+
+    return 0;
+
+}
