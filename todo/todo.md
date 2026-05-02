@@ -23,7 +23,7 @@
 
 1. [] buy nuk
 2. [] buy american comfort
-3. [] נגר: 
+3. [] sratim whatsup itamar
 4. [] Tidy up Itamar room with him
 5. [] Move electricity in Itamar room to a different place
 6. [] Add the eink screen to Itamar room? Add a different screen?
