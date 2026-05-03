@@ -386,6 +386,19 @@ return is_match;
 
 ---
 
+## Comment One Good Example
+
+```python
+# remove unneeded statistics
+clean_data = data_from_query[:-1]
+```
+
+If you find yourself writing this comment more than once - rewrite into a function
+
+Rule of thumb: if code appears once and moving it into a function will make the code reading harder - use comments
+
+---
+
 ## Code Tells a Story
 
 <br>
@@ -407,6 +420,13 @@ return is_match;
 <p style="text-align: center; color: green; font-weight: bold">very important</p>
 <br>
 <br>
+
+---
+
+## Refactoring
+
+- **Purpose:** Make code easier to understand, more efficient (only if needed!)
+- **Rule:** Should not change the functionality
 
 ---
 
@@ -448,8 +468,7 @@ return is_match;
 
 **Don't use for:**
 - Checking user input
-- Memory allocation requests
-- External data validation
+- Computer resources (e.g., out of memory)
 
 ---
 
@@ -470,9 +489,9 @@ double sqrt(double x) {
 
 - Declare implicit assumptions
 - Sanity checks in code
-- Check for violations during debugging/testing
-- C/C++: zero cost at runtime
-- Python: comment out / delete lines starting with assert
+- Make errors pop out during debugging/testing
+- C/C++: zero cost at Release runtime
+- Python: You'll need to delete lines starting with assert. But if you need the speed, probably you'll need a compiled language.
 
 ---
 
@@ -499,7 +518,7 @@ Written by Bezalel Aloni and sung by Ofra Haza
 
 ## Tools
 
-- C/C++: Add `-Wall` flag to catch things like this:
+- C/C++: Add flags such as  `-Wall` to catch things like this:
 
 ```c
 if (i = 0) {  // bug, we meant i == 0
@@ -512,6 +531,14 @@ if (i = 0) {  // bug, we meant i == 0
 - <b style="color:red">Legal but probably a bug</b> – the compiler/linter will warn you
 
 - Force <b style="color:green">consistency</b>
+  
+---
+
+## Recommended Approach
+
+- New code: Start with maximal set of warnings and add exclusion rules when they make sense
+  
+- Old code: Same but maybe let AI generate all needed exclusion rules and then start removing the unnecessary ones
   
 ---
 
@@ -547,8 +574,6 @@ Experiments repeatedly show that test suites **reduce debugging time** more than
 - Easier to catch bugs if you have them
 - A lot easier to maintain and modify your program
 
-This is a **huge win** for programs that, unlike class assignments, get actual use!
-
 ---
 
 ## Recommended TDD Approach
@@ -566,12 +591,9 @@ This is a **huge win** for programs that, unlike class assignments, get actual u
 
 ---
 
-## Refactoring
+## TDD for Refactoring
 
-- **Purpose:** Make code easier to understand, more efficient (only if needed!)
-- **Why needed:** Code tends to become messy
-- **Rule:** Should not change the functionality
-- **Benefit:** Automated testing simplifies refactoring – you can verify the changed code still passes tests
+- Automated testing simplifies refactoring – you can verify the changed code still passes tests
 
 ---
 
