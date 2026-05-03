@@ -1,0 +1,212 @@
+/* @theme presentation */
+
+/*
+based on: 
+https://github.com/rainbowflesh/Rose-Pine-For-Marp/blob/master/css/rose-pine.css
+*/
+
+@import 'gaia';
+@import "schema";
+@import "structure";
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap');
+
+:root {
+    --base: #191724;
+    --surface: #1f1d2e;
+    --overlay: #26233a;
+    --muted: #6e6a86;
+    --subtle: #908caa;
+    --text: #e0def4;
+    --love: #eb6f92;
+    --gold: #f6c177;
+    --rose: #ebbcba;
+    --pine: #31748f;
+    --foam: #9ccfd8;
+    --iris: #c4a7e7;
+    --turquoise: #53cdcb;
+    --highlight-low: #21202e;
+    --highlight-muted: #403d52;
+    --highlight-high: #524f67;
+
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    font-weight: 400;
+
+    background-color: var(--base);
+}
+
+/* Common style */
+section {
+    color: var(--text);
+    text-align: left;
+}
+section.lead {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+section.centered {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.cols {
+    display: flex;
+    justify-content: space-between;
+}
+.col {
+	width: calc(100%);
+}
+h1 {
+    color: var(--turquoise);
+    padding-bottom: 2mm;
+    margin-bottom: 12mm;
+    text-align: center;
+}
+h2 {
+    color: var(--turquoise);
+    text-align: center;
+}
+h3 {
+    color: var(--turquoise);
+    text-align: center;
+}
+h4 {
+    color: var(--turquoise);
+    text-align: center;
+}
+h5 {
+    color: var(--turquoise);
+    text-align: center;
+}
+h6 {
+    color: var(--turquoise);
+    text-align: center;
+}
+/* Centered headings for lead sections */
+section.lead h1,
+section.lead h2,
+section.lead h3,
+section.lead h4,
+section.lead h5,
+section.lead h6 {
+    text-align: center;
+}
+a {
+    color: var(--iris);
+}
+p {
+    font-size: 25pt;
+    font-weight: 400;
+    color: var(--text);
+    text-align: left;
+}
+code {
+    color: var(--text);
+    background-color: var(--highlight-muted);
+}
+pre, code {
+    text-align: left;
+}
+text {
+    color: var(--text);
+}
+ul, ol {
+    color: var(--text);
+    display: block;
+    text-align: left;
+}
+li {
+    color: var(--text);
+    text-align: left;
+    font-size: 25pt;
+    font-weight: 400;
+}
+
+/* Ensure nested list items have the same size */
+li li {
+    font-size: 25pt;
+    font-weight: 400;
+}
+img {
+    background-color: var(--highlight-low);
+}
+strong {
+    font-weight: 700;
+}
+mjx-container {
+    color: var(--text);
+}
+marp-pre {
+    background-color: var(--overlay);
+    border-color: var(--highlight-high);
+}
+/* Constrain diagram images to fit within slides */
+img[alt*="Diagram"] {
+    max-width: 85%;
+    max-height: 65vh;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    border-radius: 8px;
+    background: transparent;
+}
+
+/* Ensure SVG diagrams scale properly */
+svg {
+    max-width: 85% !important;
+    max-height: 65vh !important;
+    height: auto !important;
+}
+
+/* Ensure diagram containers don't overflow slide */
+section img {
+    max-width: 85% !important;
+    max-height: 65vh !important;
+}
+
+/* Code block */
+.hljs-comment {
+    color: var(--muted);
+}
+.hljs-attr {
+    color: var(--foam);
+}
+.hljs-punctuation {
+    color: var(--subtle);
+}
+.hljs-string {
+    color: var(--gold);
+}
+.hljs-title {
+    color: var(--foam);
+}
+.hljs-keyword {
+    color: var(--pine);
+}
+.hljs-variable {
+    color: var(--text);
+}
+.hljs-literal {
+    color: var(--rose);
+}
+.hljs-type {
+    color: var(--love);
+}
+.hljs-number {
+    color: var(--gold);
+}
+.hljs-built_in {
+    color: var(--love);
+}
+.hljs-params {
+    color: var(--iris);
+}
+.hljs-symbol {
+    color: var(--foam);
+}
+.hljs-meta {
+    color: var(--subtle);
+}
