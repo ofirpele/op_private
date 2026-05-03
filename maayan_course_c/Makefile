@@ -1,5 +1,5 @@
 CC = clang
-CFLAGS = -Wall -Wextra -pedantic -ansi --target=x86_64-w64-mingw32
+CFLAGS = -Wall -pedantic -ansi --target=x86_64-w64-mingw32
 
 TARGET = hello
 
