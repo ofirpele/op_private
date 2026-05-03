@@ -5,19 +5,19 @@
 0508862700
 מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
 
-- [] Sunday - ask Or from Zynga
-- [] Medical approval - Shir 10.5?
+- [] Monday - ask Or from Zynga
+- [] Medical approval:
+  - פסיכיאטר - להוריד מסמכים - אתר כללית פנייה למרפאה - סיכה משרדית - להעביר לדר שיר ולבקש ימי מחלה
 - [] Send Reem - want to end asap
-- [] when buy present to Liat?
-- [] Mom - Monday?
+- [ask liat] when buy present to Liat?
 - [] Hever Card
-- [] phones
-- [] check money
-   - check with Liat buying home (3.5 mil)
-- [] Return to dropbox?
+- [] music phone
+- [friday] reg phone
+- [] Return to dropbox - sync with drive with beyond compare
 - [] buy switches
-- [] buy computer?
-    
+- [] buy computer - create proposal
+- [one week] check money
+   - [two weeks] check with Liat buying home (3.5 mil)
 
 # Not Urgent
 
@@ -25,7 +25,7 @@
 - [] buy american comfort
 - [] sratim whatsup itamar
 - [] Tidy up Itamar room with him
-- [] Move electricity in Itamar room to a different place
+- [two weeks] Move electricity in Itamar room to a different place - tunnel of internet. photo and ask him
 - [] Add the eink screen to Itamar room? Add a different screen?
 - [] Evrit buy "מרד הנפילים"
 - [] Sign to Hizmi singing
@@ -54,7 +54,7 @@
 - [] Paper
 - [] Organization Github (PeleFamily Liat name?)
 - [] Clean Code
-   - Split codebase into "op_marp" and "op_do_more..." (Liat names?)
+   - [Itamar?] Split codebase into "op_marp" and "op_do_more..." (Liat names?)
    - Have python version and c++ version? 
 - [] Cooking - html + movies
 - [] Cleaning - html + movies
