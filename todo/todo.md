@@ -5,11 +5,9 @@
 0508862700
 מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
 
-- [] Monday - ask Or from Zynga
-- [] Medical approval:
-  - פסיכיאטר - להוריד מסמכים - אתר כללית פנייה למרפאה - סיכה משרדית - להעביר לדר שיר ולבקש ימי מחלה
-- [] Send Reem - want to end asap
-- [ask liat] when buy present to Liat?
+
+שלום ד"ר ארביטמן. האם אוכל לקבל אישור ימי מחלה ממך לתאריכים 20.4-26.5 וגם עבור 1.4-7.4?
+
 - [] Hever Card
 - [] music phone
 - [friday] reg phone
@@ -18,6 +16,8 @@
 - [] buy computer - create proposal
 - [one week] check money
    - [two weeks] check with Liat buying home (3.5 mil)
+- [Waiting for sick days] Send Reem - want to end asap
+- [ask liat] when buy present to Liat?
 
 # Not Urgent
 
