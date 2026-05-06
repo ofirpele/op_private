@@ -5,13 +5,10 @@
 0508862700
 מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
 
-
-שלום ד"ר ארביטמן. האם אוכל לקבל אישור ימי מחלה ממך לתאריכים 20.4-26.5 וגם עבור 1.4-7.4?
-
 - [] Hever Card
 - [] music phone
 - [friday] reg phone
-- [] Return to dropbox - sync with drive with beyond compare
+- [] Windows plan - sync original dropbox + sync google drive
 - [] buy switches
 - [] buy computer - create proposal
 - [one week] check money
