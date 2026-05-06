@@ -10,10 +10,9 @@
 - [friday] reg phone
 - [] Windows plan - sync original dropbox + sync google drive
 - [] buy switches
-- [] buy computer - create proposal
-- [one week] check money
-   - [two weeks] check with Liat buying home (3.5 mil)
-- [Waiting for sick days] Send Reem - want to end asap
+- [] buy computer
+- [10.5] check money
+   - [17.5] check with Liat buying home (3.5 mil)
 - [ask liat] when buy present to Liat?
 
 # Not Urgent
