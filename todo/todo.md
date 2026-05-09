@@ -5,26 +5,27 @@
 0508862700
 מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
 
-- [] Windows plan - sync original dropbox + sync google drive
-- [] buy switches
-- [] buy computer
+- Windows plan - sync original dropbox + sync google drive
+- buy switches
+- buy computer
 - [Liat] reg phone
 - [10.5] check money
    - [17.5] check with Liat buying home (3.5 mil)
 - [ask liat] when buy present to Liat?
-- [] Hever Card
+- Hever Card
 
 # Not Urgent
 
-- [] buy nuk
-- [] buy american comfort
-- [] sratim whatsup itamar
-- [] Tidy up Itamar room with him
-- [two weeks] Move electricity in Itamar room to a different place - tunnel of internet. photo and ask him
-- [] Add the eink screen to Itamar room? Add a different screen?
-- [] Evrit buy "מרד הנפילים"
-- [] Sign to Hizmi singing
-- [] נגר מעדנה למטבח
+- buy nuk
+- buy american comfort
+- sratim whatsup itamar
+- Tidy up Itamar room with him
+- [17.5] Move electricity in Itamar room to a different place - tunnel of internet. photo and ask him
+- add a screen to itamar room
+- Add the eink screen to our room?
+- Evrit buy "מרד הנפילים"
+- Sign to Hizmi singing
+- נגר מעדנה למטבח
 נגר למטבח:
 מגירות לאי
 מדפים לארון מעל התנור
@@ -34,26 +35,26 @@
 
 # Not^2 urgent
 
-- [] Facebook?
-- [] Talk with Yair on initiative of talking with the other side
-- [] Bookmarks tidy up
-- [] Tidy up porch
-- [] Tidy up parents room:
-   - [] floor things
-   - [] table
-- [] Tidy up contacts list
-- [] Free Claude: https://github.com/Alishahryar1/free-claude-code?fbclid=IwY2xjawRc99ZleHRuA2FlbQIxMABicmlkETF4TGZiT0lJQlBRbDRhVVBZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvdLgcNfFbjPEjmVoT81cWaZ7l51PsTax0PZ8AaxH5zfROETtqw6p3vYIfm8_aem_zxhquRdbiSWnZSZbUcXt5Q 
+- Facebook?
+- Talk with Yair on initiative of talking with the other side
+- Bookmarks tidy up
+- Tidy up porch
+- Tidy up parents room:
+   - floor things
+   - table
+- Tidy up contacts list
+- Free Claude: https://github.com/Alishahryar1/free-claude-code?fbclid=IwY2xjawRc99ZleHRuA2FlbQIxMABicmlkETF4TGZiT0lJQlBRbDRhVVBZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvdLgcNfFbjPEjmVoT81cWaZ7l51PsTax0PZ8AaxH5zfROETtqw6p3vYIfm8_aem_zxhquRdbiSWnZSZbUcXt5Q 
 
 # After Elbit
 
-- [] Paper
-- [] Organization Github (PeleFamily Liat name?)
-- [] Clean Code
+- Paper
+- Organization Github (PeleFamily Liat name?)
+- Clean Code
    - [Itamar?] Split codebase into "op_marp" and "op_do_more..." (Liat names?)
    - Have python version and c++ version? 
-- [] Cooking - html + movies
-- [] Cleaning - html + movies
-- [] Refactor Homepage with Tabs
+- Cooking - html + movies
+- Cleaning - html + movies
+- Refactor Homepage with Tabs
    - Music:
       - Kate Bush
    - Sublime touching songs:
