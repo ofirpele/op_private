@@ -1,10 +1,5 @@
 # Urgent
 
-ד''ר כרמון
-מוקד זימון תורים טלפוני - 09-7471555 (1 עברית, 5
-0508862700
-מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
-
 - Windows plan - sync original dropbox + sync google drive
 - buy switches
 - buy computer
@@ -13,6 +8,15 @@
    - [17.5] check with Liat buying home (3.5 mil)
 - [ask liat] when buy present to Liat?
 - Hever Card
+
+# Easy no need to discuss
+
+ד''ר כרמון
+מוקד זימון תורים טלפוני - 09-7471555 (1 עברית, 5
+0508862700
+מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
+
+git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 # Not Urgent
 
