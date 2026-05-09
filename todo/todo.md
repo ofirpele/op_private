@@ -5,15 +5,14 @@
 0508862700
 מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
 
-- [] Hever Card
-- [] music phone
-- [friday] reg phone
 - [] Windows plan - sync original dropbox + sync google drive
 - [] buy switches
 - [] buy computer
+- [Liat] reg phone
 - [10.5] check money
    - [17.5] check with Liat buying home (3.5 mil)
 - [ask liat] when buy present to Liat?
+- [] Hever Card
 
 # Not Urgent
 
