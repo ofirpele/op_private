@@ -1,10 +1,19 @@
 # Urgent
 
-- Windows plan - sync original dropbox + sync google drive
+- Eilat - 2000 for all family 
+- Windows plan - sync original dropbox + sync google drive:
+  - defender:
+    - ofir
+    - liat
+    - itamar
+    - maayan
+    - eitan
+    - itamar's room
+    - saloon
 - buy switches
 - buy computer
-- [Liat] reg phone
-- [10.5] check money
+- [Liat] replace passwords
+- [17.5] check money
    - [17.5] check with Liat buying home (3.5 mil)
 - [ask liat] when buy present to Liat?
 - Hever Card
