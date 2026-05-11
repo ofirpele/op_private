@@ -3,6 +3,10 @@ e88a9354cac8d2067d58393ae99e66a872795579
 # Urgent
 
 - pdf print and read
+- mashov?
+- get pants + wash them and all other laundry
+- buy tickets
+-
 - check perplexity
 - add reminders to all recurring payments (stage+, )
 - Windows plan - sync original dropbox + sync google drive:
