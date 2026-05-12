@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv run *)",
+      "Bash(Select-String \"flac\")",
+      "Bash(where.exe ffmpeg *)",
+      "PowerShell(Get-Command ffmpeg -ErrorAction SilentlyContinue)",
+      "Bash(uv sync *)"
+    ]
+  }
+}

@@ -2,6 +2,8 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
+- Noa Kawa Boyfriend
+
 - Eilat - 2000 for all family 
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
