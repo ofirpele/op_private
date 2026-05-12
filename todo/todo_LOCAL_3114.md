@@ -2,19 +2,9 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
-<<<<<<< HEAD
 - Noa Kawa Boyfriend
 
 - Eilat - 2000 for all family 
-=======
-- pdf print and read
-- mashov?
-- get pants + wash them and all other laundry
-- buy tickets
--
-- check perplexity
-- add reminders to all recurring payments (stage+, )
->>>>>>> b6d1dd03a2cb6d90c34a3757f6f77587d9e13d08
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
     - ofir
@@ -24,13 +14,12 @@ e88a9354cac8d2067d58393ae99e66a872795579
     - eitan
     - itamar's room
     - saloon
-- Eilat - 2000 for all family 
 - buy switches
 - buy computer
-- [liat] replace passwords
+- [Liat] replace passwords
 - [17.5] check money
    - [17.5] check with Liat buying home (3.5 mil)
-- [liat] when buy present to Liat?
+- [ask liat] when buy present to Liat?
 - Hever Card
 
 # Easy no need to discuss
@@ -44,7 +33,6 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 # Not Urgent
 
-- give things in msira whatsup
 - buy nuk
 - buy american comfort
 - sratim whatsup itamar
@@ -64,7 +52,6 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 # Not^2 urgent
 
-- Itamar room E:\old_downloads\The Red Paintings Discog\The Red Paintings Discog
 - Facebook?
 - Talk with Yair on initiative of talking with the other side
 - Bookmarks tidy up
@@ -74,8 +61,7 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
    - table
 - Tidy up contacts list
 - Free Claude: https://github.com/Alishahryar1/free-claude-code?fbclid=IwY2xjawRc99ZleHRuA2FlbQIxMABicmlkETF4TGZiT0lJQlBRbDRhVVBZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvdLgcNfFbjPEjmVoT81cWaZ7l51PsTax0PZ8AaxH5zfROETtqw6p3vYIfm8_aem_zxhquRdbiSWnZSZbUcXt5Q 
-- talk in ki
-- 
+
 # After Elbit
 
 - Paper

@@ -2,11 +2,6 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
-<<<<<<< HEAD
-- Noa Kawa Boyfriend
-
-- Eilat - 2000 for all family 
-=======
 - pdf print and read
 - mashov?
 - get pants + wash them and all other laundry
@@ -14,7 +9,6 @@ e88a9354cac8d2067d58393ae99e66a872795579
 -
 - check perplexity
 - add reminders to all recurring payments (stage+, )
->>>>>>> b6d1dd03a2cb6d90c34a3757f6f77587d9e13d08
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
     - ofir
