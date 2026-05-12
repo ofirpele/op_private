@@ -5,7 +5,8 @@
       "Bash(Select-String \"flac\")",
       "Bash(where.exe ffmpeg *)",
       "PowerShell(Get-Command ffmpeg -ErrorAction SilentlyContinue)",
-      "Bash(uv sync *)"
+      "Bash(uv sync *)",
+      "Bash(.venv\\\\Scripts\\\\python.exe convert.py \"https://www.youtube.com/watch?v=wuJIqmha2Hk\")"
     ]
   }
 }
