@@ -2,11 +2,8 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
-- get pants + wash them and all other laundry
-- Noa Kawa Boyfriend
 - Eilat - 2000 for all family 
 - mashov?
-- buy tickets music
 - check perplexity
 - add reminders to all recurring payments (stage+, )
 - Windows plan - sync original dropbox + sync google drive:
@@ -39,9 +36,9 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 - give things in msira whatsup
 - buy nuk
-- buy american comfort
+- fix american comfort
+- Noa Kawa Boyfriend
 - sratim whatsup itamar
-- Tidy up Itamar room with him
 - [17.5] Move electricity in Itamar room to a different place - tunnel of internet. photo and ask him
 - add a screen to itamar room
 - Add the eink screen to our room?
