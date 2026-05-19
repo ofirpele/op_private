@@ -2,6 +2,10 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
+- ימים של שקט אלט
+- מילים לשיר של כוורת
+- pay marina
+-
 - draw money
 - 3200 for edna
 - check perplexity
