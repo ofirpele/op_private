@@ -38,6 +38,8 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 # Not Urgent
 
+- tidy up tmp in whatsup
+- gmail
 - give things in msira whatsup
 - buy nuk
 - fix american comfort
