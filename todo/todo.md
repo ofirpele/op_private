@@ -2,11 +2,12 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
+- טופס סיום
+
 - ימים של שקט אלט
 - מילים לשיר של כוורת
-- [liat] טופס סיום
-- [liat] pay marina
 
+- [marina] send summary of marina
 - draw money
 - 3200 for edna
 - check perplexity
@@ -20,6 +21,7 @@ e88a9354cac8d2067d58393ae99e66a872795579
     - itamar's room
     - saloon
 - deposit checks
+ 
 
 - Eilat - 2000 for all family
 - add reminders to all recurring payments (stage+, )
