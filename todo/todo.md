@@ -2,10 +2,9 @@ e88a9354cac8d2067d58393ae99e66a872795579
 
 # Urgent
 
-- Eilat - 2000 for all family 
-- mashov?
+- draw money
+- 3200 for edna
 - check perplexity
-- add reminders to all recurring payments (stage+, )
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
     - ofir
@@ -15,6 +14,10 @@ e88a9354cac8d2067d58393ae99e66a872795579
     - eitan
     - itamar's room
     - saloon
+- deposit checks
+
+- Eilat - 2000 for all family
+- add reminders to all recurring payments (stage+, )
 - buy switches
 - buy computer
 - [liat] replace passwords
@@ -22,6 +25,7 @@ e88a9354cac8d2067d58393ae99e66a872795579
    - [17.5] check with Liat buying home (3.5 mil)
 - [liat] when buy present to Liat?
 - Hever Card
+
 
 # Easy no need to discuss
 
