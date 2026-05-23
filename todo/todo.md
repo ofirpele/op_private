@@ -77,7 +77,8 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 - Free Claude: https://github.com/Alishahryar1/free-claude-code?fbclid=IwY2xjawRc99ZleHRuA2FlbQIxMABicmlkETF4TGZiT0lJQlBRbDRhVVBZc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHvdLgcNfFbjPEjmVoT81cWaZ7l51PsTax0PZ8AaxH5zfROETtqw6p3vYIfm8_aem_zxhquRdbiSWnZSZbUcXt5Q 
 - talk in ki
 - https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai-part-4c6?utm_campaign=post&utm_medium=email&triedRedirect=true
-  
+- maya lec: https://www.youtube.com/watch?v=DCAd8WC4WOg
+    
 # After Elbit
 
 - Paper
