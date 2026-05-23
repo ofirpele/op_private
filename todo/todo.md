@@ -66,7 +66,10 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 # Not^2 urgent
 
 - Itamar room E:\old_downloads\The Red Paintings Discog\The Red Paintings Discog
-- Facebook?
+- Facebook:
+  - family and friends
+  - musikenean - red paintings?
+- walls ep
 - Talk with Yair on initiative of talking with the other side
 - Bookmarks tidy up
 - Tidy up porch
