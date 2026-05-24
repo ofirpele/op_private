@@ -1,9 +1,6 @@
-e88a9354cac8d2067d58393ae99e66a872795579
-
 # Urgent
 
-- מילים לשיר של כוורת
-
+- superbro
 - draw money
 - 3200 for edna
 - check perplexity
@@ -17,7 +14,7 @@ e88a9354cac8d2067d58393ae99e66a872795579
     - itamar's room
     - saloon
 - deposit checks
- 
+- buy shorts - super style habanim 12 
 
 - Eilat - 2000 for all family
 - add reminders to all recurring payments (stage+, )
