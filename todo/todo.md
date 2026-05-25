@@ -1,7 +1,9 @@
 # Urgent
 
 print take five and mark sopran
-
+- להזיז ג'ריקנים
+- [eitan] ראש מקלחת
+- 
 - superbro
 - draw money
 - 3200 for edna
