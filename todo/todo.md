@@ -1,12 +1,8 @@
 # Urgent
 
-print take five and mark sopran
 - להזיז ג'ריקנים
-- [eitan] ראש מקלחת
-- 
-- superbro
-- draw money
-- 3200 for edna
+- ראש מקלחת
+
 - check perplexity
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
@@ -25,11 +21,10 @@ print take five and mark sopran
 - buy switches
 - buy computer
 - [liat] replace passwords
-- [17.5] check money
-   - [17.5] check with Liat buying home (3.5 mil)
+- check money
+   - [liat] check with Liat buying home (3.5 mil)
 - [liat] when buy present to Liat?
 - Hever Card
-
 
 # Easy no need to discuss
 
@@ -84,6 +79,7 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 # After Elbit
 
 - Paper
+- superbru bets smart
 - Organization Github (PeleFamily Liat name?)
 - Clean Code
    - [Itamar?] Split codebase into "op_marp" and "op_do_more..." (Liat names?)
@@ -103,3 +99,7 @@ https://vimeo.com/192132661?fl=pl&fe=vl
 Great fanmade clips from the sublime "Sky of Honey" (2nd side of Aerial)
 https://www.youtube.com/watch?v=Twfb-plg6-k      
 https://www.youtube.com/watch?v=BGjP_nHNkR4 
+
+# waiting for others
+
+- [Edna] return 3200
