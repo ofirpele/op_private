@@ -1,8 +1,5 @@
 # Urgent
 
-- להזיז ג'ריקנים
-- ראש מקלחת
-
 - check perplexity
 - Windows plan - sync original dropbox + sync google drive:
   - defender:
