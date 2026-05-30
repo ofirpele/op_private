@@ -12,6 +12,7 @@
     - saloon
 - deposit checks
 - buy shorts - super style habanim 12 
+- buy present to Liat
 
 - Eilat - 2000 for all family
 - add reminders to all recurring payments (stage+, )
@@ -20,7 +21,6 @@
 - [liat] replace passwords
 - check money
    - [liat] check with Liat buying home (3.5 mil)
-- [liat] when buy present to Liat?
 - Hever Card
 
 # Easy no need to discuss
@@ -99,4 +99,4 @@ https://www.youtube.com/watch?v=BGjP_nHNkR4
 
 # waiting for others
 
-- [Edna] return 3200
+- [Edna] return 1800
