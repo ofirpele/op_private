@@ -1,7 +1,8 @@
 # Urgent
 
-- check perplexity
-- Windows plan - sync original dropbox + sync google drive:
+- file protection in google drive?|
+- git for storing files
+- Windows plan:
   - defender:
     - ofir
     - liat
@@ -36,6 +37,7 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 - tidy up tmp in whatsup
 - gmail
+- hackaton: https://docs.google.com/spreadsheets/d/1vRnJgNgeis1wjppkBpbKhdLCbW4-_S0kkC2e6aERYQw/edit?gid=710149667#gid=710149667
 - give things in msira whatsup
 - buy nuk
 - fix american comfort
