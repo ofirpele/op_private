@@ -1,5 +1,6 @@
 # Urgent
 
+
 - Organization Github
 - overleaf
 - paper
@@ -9,6 +10,7 @@
 - amit
 - david bouhadana
 
+add border -> move to bash_utils
 
 - new emd version with lemon/google optimization, python
 - alignment diff 
