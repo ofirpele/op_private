@@ -14,6 +14,9 @@
 - david bouhadana
 
 
+- new emd version with lemon/google optimization, python
+- alignment diff 
+
 
 - Clean Code
    - Split codebase into "op_marp" and "op_do_more..."
