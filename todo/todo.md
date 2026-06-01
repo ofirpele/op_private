@@ -11,7 +11,9 @@
 
 - raz + noy
 - amit
-- david
+- david bouhadana
+
+
 
 - Clean Code
    - Split codebase into "op_marp" and "op_do_more..."
