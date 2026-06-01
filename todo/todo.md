@@ -1,9 +1,5 @@
 # Urgent
 
-- private pics
-  - [family] send to all link + pics + thanks
--  mom + brothers -> meeting at jerusalem
-
 - Organization Github
 - overleaf
 - paper
