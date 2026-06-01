@@ -1,9 +1,17 @@
 # Urgent
 
+- private pics
+  - [family] send to all link + pics + thanks
+-  mom + brothers -> meeting at jerusalem
+
 - Organization Github
 - overleaf
 - paper
 - amit - projects in engineering
+
+- raz + noy
+- amit
+- david
 
 - Clean Code
    - Split codebase into "op_marp" and "op_do_more..."
