@@ -1,7 +1,47 @@
 # Urgent
 
-- file protection in google drive?|
-- git for storing files
+- Organization Github
+- overleaf
+- paper
+- amit - projects in engineering
+
+- Clean Code
+   - Split codebase into "op_marp" and "op_do_more..."
+   - Have python version and c++ version
+
+- Refactor Homepage with Tabs
+   - Music:
+      - Kate Bush
+   - Sublime touching songs:
+https://www.youtube.com/watch?v=mp6V5B9WJng
+https://vimeo.com/867964526/4ba1d1a73d?fl=pl&fe=vl
+Most popular album (see videos down on the page)
+https://www.katebush.com/hounds-of-love/
+Live version of first song of The Ninth Wave (2nd side of Hounds of Love)
+https://vimeo.com/192132661?fl=pl&fe=vl
+Great fanmade clips from the sublime "Sky of Honey" (2nd side of Aerial)
+https://www.youtube.com/watch?v=Twfb-plg6-k      
+https://www.youtube.com/watch?v=BGjP_nHNkR4 
+
+- superbru bets smart
+
+- check money
+
+- Hever Card
+
+- Cooking - html + movies
+- Cleaning - html + movies
+
+# Easy no need to discuss
+
+ד''ר כרמון
+מוקד זימון תורים טלפוני - 09-7471555 (1 עברית, 5
+0508862700
+מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
+
+git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
+
+- file protection in google drive?
 - Windows plan:
   - defender:
     - ofir
@@ -14,24 +54,12 @@
 - deposit checks
 - buy shorts - super style habanim 12 
 - buy present to Liat
-
+- podcast app register
+- lior frenkel popcorn podcast
 - Eilat - 2000 for all family
 - add reminders to all recurring payments (stage+, )
 - buy switches
 - buy computer
-- [liat] replace passwords
-- check money
-   - [liat] check with Liat buying home (3.5 mil)
-- Hever Card
-
-# Easy no need to discuss
-
-ד''ר כרמון
-מוקד זימון תורים טלפוני - 09-7471555 (1 עברית, 5
-0508862700
-מרפאה דר כרמון: 09-7472446 9:30-13 שלוחה 8
-
-git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 # Not Urgent
 
@@ -75,30 +103,8 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 - https://www.popularbydesign.org/p/academics-need-to-wake-up-on-ai-part-4c6?utm_campaign=post&utm_medium=email&triedRedirect=true
 - maya lec: https://www.youtube.com/watch?v=DCAd8WC4WOg
     
-# After Elbit
-
-- Paper
-- superbru bets smart
-- Organization Github (PeleFamily Liat name?)
-- Clean Code
-   - [Itamar?] Split codebase into "op_marp" and "op_do_more..." (Liat names?)
-   - Have python version and c++ version? 
-- Cooking - html + movies
-- Cleaning - html + movies
-- Refactor Homepage with Tabs
-   - Music:
-      - Kate Bush
-   - Sublime touching songs:
-https://www.youtube.com/watch?v=mp6V5B9WJng
-https://vimeo.com/867964526/4ba1d1a73d?fl=pl&fe=vl
-Most popular album (see videos down on the page)
-https://www.katebush.com/hounds-of-love/
-Live version of first song of The Ninth Wave (2nd side of Hounds of Love)
-https://vimeo.com/192132661?fl=pl&fe=vl
-Great fanmade clips from the sublime "Sky of Honey" (2nd side of Aerial)
-https://www.youtube.com/watch?v=Twfb-plg6-k      
-https://www.youtube.com/watch?v=BGjP_nHNkR4 
-
 # waiting for others
 
 - [Edna] return 1800
+- [liat] replace passwords
+- [liat] check with Liat buying home (3.5 mil)
