@@ -43,6 +43,8 @@ https://www.youtube.com/watch?v=BGjP_nHNkR4
 - Cooking - html + movies
 - Cleaning - html + movies
 
+- c & c++ https://github.com/david-busbib//
+
 # Easy no need to discuss
 
 ד''ר כרמון
