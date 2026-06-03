@@ -1,8 +1,5 @@
 # Urgent
 
-
-- Organization Github
-- overleaf
 - paper
 - amit - projects in engineering
 
