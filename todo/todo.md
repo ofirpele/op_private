@@ -1,11 +1,10 @@
 # Urgent
 
-- paper
+- david bouhadana
+- amit gruber
 
 - read: https://www.quantamagazine.org/a-new-approach-to-understanding-how-machines-think-20190110/
 
-- amit gruber
-- david bouhadana
 
 add border -> move to bash_utils
 
