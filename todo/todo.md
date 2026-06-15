@@ -1,12 +1,15 @@
 # Urgent
 
 - david bouhadana
+
+- answer nir
+
 - amit gruber
 
 - read: https://www.quantamagazine.org/a-new-approach-to-understanding-how-machines-think-20190110/
 
 
-add border -> move to bash_utils
+- add border -> move to bash_utils
 
 - new emd version with lemon/google optimization, python
 - alignment diff 
