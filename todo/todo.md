@@ -14,7 +14,7 @@
 
 
 - Clean Code
-   - Split codebase into "op_marp" and "op_do_more..."
+   - Split codebase into "op_docs" and "op_do_more..."
    - Have python version and c++ version
 
 - Refactor Homepage with Tabs
