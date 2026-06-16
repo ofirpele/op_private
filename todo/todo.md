@@ -1,8 +1,6 @@
 # Urgent
 
-- david bouhadana
-
-- answer nir
+- answer nir kalkstein
 
 - amit gruber
 
