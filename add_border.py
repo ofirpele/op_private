@@ -1,17 +1,22 @@
-#!/usr/bin/env python3
+import argparse
+
 from PIL import Image
 
-# Load the image
-img = Image.open("edna_children_grandchildren.jpg")
 
-# Add 700 pixel black border
-border_size = 700
-bordered_img = Image.new('RGB', (img.width + 2*border_size, img.height + 2*border_size), color='black')
-bordered_img.paste(img, (border_size, border_size))
+def main():
+    parser = argparse.ArgumentParser(description="Add a black border around an image.")
+    parser.add_argument("input", help="Path to the input image")
+    parser.add_argument("border-size", type=int, default=70, help="Border size in pixels")
+    parser.add_argument("color", default="black", help="color")
+    args = parser.parse_args()
 
-# Save to i.jpg
-bordered_img.save("i.jpg", quality=95)
+    img = Image.open(args.input)
 
-print(f"Original size: {img.width}x{img.height}")
-print(f"New size: {bordered_img.width}x{bordered_img.height}")
-print("Saved to i.jpg")
+    border_size = args.border_size
+    bordered_img = Image.new("RGB", (img.width + 2*border_size, img.height + 2*border_size), color=args.color)
+    bordered_img.paste(img, (border_size, border_size))
+
+    bordered_img.save("b_" + args.input)
+    
+if __name__ == "__main__":
+    main()
