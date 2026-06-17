@@ -7,10 +7,13 @@
 - read: https://www.quantamagazine.org/a-new-approach-to-understanding-how-machines-think-20190110/
 
 
-- add border -> move to bash_utils
+- alignment diff - check google optimization
 
 - new emd version with lemon/google optimization, python
-- alignment diff 
+
+
+
+- add border -> move to bash_utils
 
 
 - Clean Code
