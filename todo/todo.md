@@ -4,6 +4,21 @@
 
 - amit gruber
 
+- buy from ace:
+  - סלסלות גדולות
+  - מנורת קריאה לקיר
+  - שקית ואקום גדולה
+
+- 4chef:
+  - מספריים
+  - מחזיק סכום למגירה
+
+- חשמלאי:
+  - מנורת קריאה
+  - חשמל חדר איתמר
+  -  חשמל ליד רובוט וטייפ
+  
+
 - read: https://www.quantamagazine.org/a-new-approach-to-understanding-how-machines-think-20190110/
 
 
