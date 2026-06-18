@@ -4,6 +4,9 @@
 
 - amit gruber
 
+AC Adapter for Onyx Boox Mira Pro 25.3" Monochrome E-Ink Monitor ePaper Display
+https://www.ebay.com/itm/157130363331
+
 - buy from ace:
   - סלסלות גדולות
   - מנורת קריאה לקיר
