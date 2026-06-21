@@ -35,8 +35,12 @@ https://www.ebay.com/itm/157130363331
 
 
 - Clean Code
-   - Split codebase into "op_docs" and "op_do_more..."
+   - Split codebase into "op_docs" and "op_do_more..."     
    - Have python version and c++ version
+  
+op_docs:
+  - from clean code, from tai_private
+  - mmdc -i diagram.mmd -o diagram.pdf --pdfFit
 
 - Refactor Homepage with Tabs
    - Music:
