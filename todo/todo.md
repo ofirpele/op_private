@@ -29,16 +29,9 @@ https://www.ebay.com/itm/157130363331
 
 - new emd version with lemon/google optimization, python
 
-
-
 - add border -> move to bash_utils
-
-
-- Clean Code
-   - Split codebase into "op_docs" and "op_do_more..."     
-   - Have python version and c++ version
   
-op_docs:
+- op_docs:
   - from clean code, from tai_private
   - mmdc -i diagram.mmd -o diagram.pdf --pdfFit
 
@@ -143,4 +136,3 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 
 - [Edna] return 1800
 - [liat] replace passwords
-- [liat] check with Liat buying home (3.5 mil)
