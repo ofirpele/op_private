@@ -39,28 +39,9 @@ https://www.ebay.com/itm/157130363331
   - from clean code, from tai_private
   - mmdc -i diagram.mmd -o diagram.pdf --pdfFit
 
-- Refactor Homepage with Tabs
-   - Music:
-      - Kate Bush
-   - Sublime touching songs:
-https://www.youtube.com/watch?v=mp6V5B9WJng
-https://vimeo.com/867964526/4ba1d1a73d?fl=pl&fe=vl
-Most popular album (see videos down on the page)
-https://www.katebush.com/hounds-of-love/
-Live version of first song of The Ninth Wave (2nd side of Hounds of Love)
-https://vimeo.com/192132661?fl=pl&fe=vl
-Great fanmade clips from the sublime "Sky of Honey" (2nd side of Aerial)
-https://www.youtube.com/watch?v=Twfb-plg6-k      
-https://www.youtube.com/watch?v=BGjP_nHNkR4 
 
 - superbru bets smart
 
-- check money
-
-- Hever Card
-
-- Cooking - html + movies
-- Cleaning - html + movies
 
 - c & c++ https://github.com/david-busbib//
 
@@ -103,7 +84,6 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 - fix american comfort
 - Noa Kawa Boyfriend
 - sratim whatsup itamar
-- [17.5] Move electricity in Itamar room to a different place - tunnel of internet. photo and ask him
 - add a screen to itamar room
 - Add the eink screen to our room?
 - Evrit buy "מרד הנפילים"
@@ -138,5 +118,4 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
       
 # waiting for others
 
-- [Edna] return 1800
 - [liat] replace passwords
