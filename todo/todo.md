@@ -1,10 +1,12 @@
 # Urgent
 
-- answer nir kalkstein
+- 1st version for mira
 
-- amit gruber
+- change profile image and title in linkedin
+  
+- cancel isracard
 
-AC Adapter for Onyx Boox Mira Pro 25.3" Monochrome E-Ink Monitor ePaper Display
+- AC Adapter for Onyx Boox Mira Pro 25.3" Monochrome E-Ink Monitor ePaper Display
 https://www.ebay.com/itm/157130363331
 
 - buy from ace:
@@ -20,6 +22,8 @@ https://www.ebay.com/itm/157130363331
   - מנורת קריאה
   - חשמל חדר איתמר
   -  חשמל ליד רובוט וטייפ
+  -  אור למסדרון
+  -  אור למראות?
   
 
 - read: https://www.quantamagazine.org/a-new-approach-to-understanding-how-machines-think-20190110/
