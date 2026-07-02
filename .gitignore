@@ -1,3 +1,7 @@
 *.mp3
 *.webm
 *.flac
+
+# Python
+__pycache__/
+*.pyc
