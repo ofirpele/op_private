@@ -2,12 +2,9 @@
 
 - 1st version for mira
 
-- change profile image and title in linkedin
+- change title in linkedin
   
 - cancel isracard
-
-- AC Adapter for Onyx Boox Mira Pro 25.3" Monochrome E-Ink Monitor ePaper Display
-https://www.ebay.com/itm/157130363331
 
 - buy from ace:
   - סלסלות גדולות
@@ -15,8 +12,9 @@ https://www.ebay.com/itm/157130363331
   - שקית ואקום גדולה
 
 - 4chef:
-  - מספריים
   - מחזיק סכום למגירה
+  - pyrex
+  - מייבש חסה
 
 - חשמלאי:
   - מנורת קריאה
@@ -116,7 +114,8 @@ git difftool --dir-diff 6b113e0c7f36b5cb16429fa4b73d07ee706675f2  HEAD
 - maya lec: https://www.youtube.com/watch?v=DCAd8WC4WOg
 - if i need tools for web publishing: https://www.linkedin.com/posts/shaisnir_%D7%A7%D7%99%D7%91%D7%9C%D7%AA%D7%99-%D7%94%D7%91%D7%95%D7%A7%D7%A8-%D7%97%D7%A9%D7%91%D7%95%D7%A0%D7%99%D7%AA-%D7%9E-cloudflare-%D7%94%D7%A1%D7%9B%D7%95%D7%9D-share-7471919199964090368-weN8/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAASyURoBiFgDgNUJDhu3cQoeWJFdfypI_5g
 - pics store, duby tal
-        
+- סיכום ידע של הרבה אנשים - מה הבעיות הכי מציקות 
+
 # waiting for others
 
 - [liat] replace passwords
