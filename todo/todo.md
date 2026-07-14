@@ -1,6 +1,12 @@
 # Urgent
 
-- 1st version for mira
+מכסה למזגן,מאוורר תקרה למזגן?
+
+talk eith yishai on armonit
+
+bilaxtin,armonit,blood tests,carmon letter
+
+
 
 - change title in linkedin
   
