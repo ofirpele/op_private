@@ -6,17 +6,16 @@
 
 - [liat] כסף לשמואל
 
+
+- change title in linkedin
+  
+- cancel isracard
+
 מכסה למזגן,מאוורר תקרה למזגן?
 
 talk with yishai on armonit
 
 bilaxtin, armonit, blood tests, carmon letter
-
-
-
-- change title in linkedin
-  
-- cancel isracard
 
 ======================================
 hever: 315
