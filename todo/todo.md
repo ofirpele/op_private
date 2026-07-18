@@ -15,7 +15,7 @@
 
 talk with yishai on armonit
 
-bilaxtin, armonit, blood tests, carmon letter
+talk with shir: bilaxtin, armonit, blood tests, carmon letter
 
 ======================================
 hever: 315
