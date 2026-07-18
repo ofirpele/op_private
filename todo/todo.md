@@ -1,17 +1,12 @@
 # Urgent
 
-- [liat] gmail
-  
-- [liat] ביטוח לאומי
 
-- [liat] כסף לשמואל
-
+מכסה למזגן,מאוורר תקרה למזגן?
 
 - change title in linkedin
   
 - cancel isracard
 
-מכסה למזגן,מאוורר תקרה למזגן?
 
 talk with yishai on armonit
 
