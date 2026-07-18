@@ -1,11 +1,19 @@
 # Urgent
 
+<<<<<<< HEAD
 - [liat] gmail
   
 - [liat] ביטוח לאומי
 
 - [liat] כסף לשמואל
 
+=======
+מכסה למזגן,מאוורר תקרה למזגן?
+
+talk eith yishai on armonit
+
+bilaxtin,armonit,blood tests,carmon letter
+>>>>>>> 8ade96d386038c1abc17512ffae2f2908e7ad327
 
 
 
