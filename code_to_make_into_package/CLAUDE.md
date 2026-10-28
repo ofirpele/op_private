@@ -8,14 +8,14 @@
 
 ## Code Quality
 - Before finishing always run:
-  - `mpm_test`
+  - `op_test`
 
 ## Testing
 - Testing framework: `pytest`
-- **Run all tests**: `tai_test` (auto-formats with ruff, checks with ruff, then runs pytest)
-- **Run tests verbose**: `tai_test_verbose` (runs with -vv flag)
-- **Run with coverage**: `tai_test_coverage` (shows total coverage percentage)
-- **Run with detailed coverage**: `tai_test_coverage_verbose` (shows missing lines)
+- **Run all tests**: `op_test` (auto-formats with ruff, checks with ruff, then runs pytest)
+- **Run tests verbose**: `op_test_verbose` (runs with -vv flag)
+- **Run with coverage**: `op_test_coverage` (shows total coverage percentage)
+- **Run with deopled coverage**: `op_test_coverage_verbose` (shows missing lines)
 - **Run specific test file**: `uv run pytest path/to/_test__file.py`
 - **Run specific test**: `uv run pytest path/to/_test__file.py::test_function_name`
 - Always write tests for new features and bug fixes
