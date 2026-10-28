@@ -13,6 +13,8 @@ talk with yishai on armonit
 
 talk with shir: bilaxtin, armonit, blood tests, carmon letter
 
+https://themodernsoftware.dev/
+
 ======================================
 hever: 315
 ======================================
