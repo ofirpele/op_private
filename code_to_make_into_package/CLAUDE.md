@@ -1,0 +1,63 @@
+# Project Configuration
+
+## Python Environment
+- This project uses `uv` for dependency management
+- Python version is specified in `.python-version` file
+- Always use `uv run` to execute Python commands
+- Use `uv add` for new dependencies
+
+## Code Quality
+- Before finishing always run:
+  - `mpm_test`
+
+## Testing
+- Testing framework: `pytest`
+- **Run all tests**: `tai_test` (auto-formats with ruff, checks with ruff, then runs pytest)
+- **Run tests verbose**: `tai_test_verbose` (runs with -vv flag)
+- **Run with coverage**: `tai_test_coverage` (shows total coverage percentage)
+- **Run with detailed coverage**: `tai_test_coverage_verbose` (shows missing lines)
+- **Run specific test file**: `uv run pytest path/to/_test__file.py`
+- **Run specific test**: `uv run pytest path/to/_test__file.py::test_function_name`
+- Always write tests for new features and bug fixes
+- Test files should be named `_test__*.py` (NOT `test_*.py` or `*_test.py`)
+- Test functions should be named `test_*`
+
+## Workflow Preferences
+- After making code changes:
+  1. Format with ruff
+  2. Check with ruff
+  3. Run relevant tests
+  4. Ensure all tests pass before considering the task complete
+
+## Git & Version Control
+🚫 **NEVER USE GIT COMMANDS** 🚫
+- Do not run any git commands (git add, git commit, git push, git branch, etc.)
+- Do not create commits
+- Do not create branches
+- Do not suggest git workflows
+- I will handle ALL version control manually
+- Only focus on writing and modifying code
+
+## Code Style Preferences
+
+### General
+- Abstract methods should use `pass` instead of `...`
+- **Never use `noqa` comments** to suppress linter warnings unless explicitly asked
+  - Fix the underlying issue instead (e.g., move imports to top of file)
+
+### Docstrings
+- **Omit docstrings** 
+- Use docstrings only if I explicitly ask you
+
+### Test Code Style
+- **Use descriptive variable names** that clearly indicate what is being tested
+  - Good: `overlapping_with_mission1`, `mission_overlap_both`, `existing_mission`
+  - Bad: `test_mission`, `mission`, `m1`
+- **Add inline comments showing time ranges** for clarity in time-based tests
+  - Example: `mission1 = _ToyMission(begin_time=5.0, shooting_duration=10.0, ...)  # 5-15`
+- **Use variable references instead of magic numbers** in assertions
+  - Good: `assert overlapping[0].begin_time == mission1.begin_time`
+  - Bad: `assert overlapping[0].begin_time == 5.0`
+- **Rename generic test variables** to be more specific about what they test
+  - Good: `overlapping_with_mission1`, `non_overlapping_mission`
+  - Bad: `overlapping_mission`, `test_mission`

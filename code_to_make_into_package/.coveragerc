@@ -1,0 +1,10 @@
+[report]
+exclude_lines =
+    pragma: no cover
+    @abstract
+    if TYPE_CHECKING:
+    if __name__ == .__main__.:
+[run]
+omit =
+    **/_test__*.py
+    
