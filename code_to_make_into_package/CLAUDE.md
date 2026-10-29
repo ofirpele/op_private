@@ -15,7 +15,7 @@
 - **Run all tests**: `op_test` (auto-formats with ruff, checks with ruff, then runs pytest)
 - **Run tests verbose**: `op_test_verbose` (runs with -vv flag)
 - **Run with coverage**: `op_test_coverage` (shows total coverage percentage)
-- **Run with deopled coverage**: `op_test_coverage_verbose` (shows missing lines)
+- **Run with verbose coverage**: `op_test_coverage_verbose` (shows missing lines)
 - **Run specific test file**: `uv run pytest path/to/_test__file.py`
 - **Run specific test**: `uv run pytest path/to/_test__file.py::test_function_name`
 - Always write tests for new features and bug fixes
@@ -51,13 +51,8 @@
 
 ### Test Code Style
 - **Use descriptive variable names** that clearly indicate what is being tested
-  - Good: `overlapping_with_mission1`, `mission_overlap_both`, `existing_mission`
-  - Bad: `test_mission`, `mission`, `m1`
-- **Add inline comments showing time ranges** for clarity in time-based tests
-  - Example: `mission1 = _ToyMission(begin_time=5.0, shooting_duration=10.0, ...)  # 5-15`
-- **Use variable references instead of magic numbers** in assertions
-  - Good: `assert overlapping[0].begin_time == mission1.begin_time`
-  - Bad: `assert overlapping[0].begin_time == 5.0`
+  - Good: `test_blackbox_against_naive_implementation` ()
+  - Bad: `test_distance`, `a1`
 - **Rename generic test variables** to be more specific about what they test
-  - Good: `overlapping_with_mission1`, `non_overlapping_mission`
-  - Bad: `overlapping_mission`, `test_mission`
+  - Good: `overlapping_timeperiod_with_period1`
+  - Bad: `overlapping_timeperiod`
